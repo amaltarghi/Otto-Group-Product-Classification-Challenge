@@ -1,4 +1,7 @@
  accuaricy for the linear case is about:	8.63808 	
 accuaricy for the linear case with pca is about : 27.06020  
  accuaricy for the non linear case (rbf) is about:	7.19947
- 	7.21143 
+  accuaricy for the non linear case (sigomide) is about:	7.21143 
+  accuaricy for the non linear case (poly) is about:	7.23774 	
+  accuaricy for the non linear case decision tree is about(entropy):	9.90844
+ accuaricy for the non linear case decision tree is about(9.80716):9.80716 
