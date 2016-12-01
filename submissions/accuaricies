@@ -4,6 +4,6 @@ accuaricy for the linear case with pca is about : 27.06020
   accuaricy for the non linear case (sigomide) is about:	7.21143 
   accuaricy for the non linear case (poly) is about:	7.23774 	
   accuaricy for the non linear case decision tree is about(entropy):	9.90844
- accuaricy for the  random forrest :   	1.4492  ( with pca)
+ accuaricy for the  random forrest :   	1.1499 ( with pca)
  accuaricy for the  random xgboost 0.46 ( 180 iterations)
  accuaricy for the  random xgboost (reduced data with 50 features) 0.55264
